@@ -1,0 +1,28 @@
+name: Seneviratne Organisation Multi-Dimensional
+favicon: null
+layout_spectrum: 0.2676542967092246
+typography_spectrum: 0.785330256447196
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.4670936076436192
+  lightness: 0.7909117222297937
+  saturation: 0.2144101015292108
+  rhythmicContrast: 0.8720462948549539
+purpose: []
