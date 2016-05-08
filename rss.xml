@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Seneviratne Organisation Multi-Dimensional]]></title>
         <description><![CDATA[Seneviratne Organisation Multi-Dimensional]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/seneviratne-organisation-multi-dimensional/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 May 2016 00:45:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 08 May 2016 00:45:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/seneviratne-organisation-multi-dimensional/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c232f90-5640-49d9-9a30-704c343ffa6a.jpg">]]></description>
-            <link>undefinedc537e431-7479-4a25-ac28-ec0cdc04893c/index.html</link>
+            <link>https://thegrid.ai/seneviratne-organisation-multi-dimensional/c537e431-7479-4a25-ac28-ec0cdc04893c/index.html</link>
             <guid isPermaLink="false">c537e431-7479-4a25-ac28-ec0cdc04893c</guid>
-            <pubDate>Sun, 08 May 2016 00:44:27 GMT</pubDate>
+            <pubDate>Sun, 08 May 2016 00:45:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
